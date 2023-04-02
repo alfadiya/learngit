@@ -1,1 +1,1 @@
-printf("product");
+printf("products");
